@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    name: "Continue Intergartion"
+    name: "Continuous Integration"
     runs-on: windows-latest
 
     steps:
@@ -43,7 +43,7 @@ jobs:
 
 
   deploy:
-    name: "Continue Deployment"
+    name: "Continuous Delivery"
     runs-on: ubuntu-latest
     needs: build
     environment:
