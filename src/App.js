@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Cao Quang Sang
+          Learn React Quang Sang
         </a>
       </header>
     </div>
